@@ -8,7 +8,7 @@
 *   👉 A temperatura de 0 graus Celsius equivale a 32 graus Fahrenheit :)
 */
 
-var Celsius = 50
+var Celsius = 31.7
 var Fahrenheit = 1.8 * Celsius + 32
 
 console.log('👉 A temperatura de ' + Celsius + ' graus Celsius equivale a ' + Fahrenheit + ' graus Fahrenheit :)')
