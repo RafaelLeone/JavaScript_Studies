@@ -4,7 +4,7 @@
 * Tarefa:
 * - use node para rodar este script js
 *   $ node js02-04.js
-*   👉 Ímpar
+*   👉 490
 */
 
 var check = [10, 9.5, 8, 490, 10, 11]
@@ -15,4 +15,4 @@ for (var i of check) {
     }
 }
 
-console.log(maior)
+console.log('👉 ' + maior)
