@@ -3,7 +3,7 @@
 * 
 * Tarefa:
 * - use node para rodar este script js
-*   $ node js02-04.js
+*   $ node js02-05.js
 *   👉 Ímpar
 */
 
